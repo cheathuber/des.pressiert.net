@@ -1,8 +1,8 @@
 +++
 title = 'Llama3 News Flash'
 date = 2024-07-11T11:15:09+02:00
-params:
-  author: a thirsty writer
+[params]
+  author = "a thirsty writer"
 draft = false
 +++
 **BREAKING: Bavarian Town Loses its Mind Over New Beer Garden**
