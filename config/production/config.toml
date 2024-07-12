@@ -25,7 +25,8 @@ enableRobotsTXT = false
   priority = 0.5
   filename = "sitemap.xml"
 
-#[params]
+[params]
+  env = "production"
 #  text_color = ""
 #  author = ""
 #  favicon = ""
