@@ -2,3 +2,5 @@ baseURL = 'https://des.pressiert.net/'
 languageCode = 'en-us'
 title = 'Des Pressiert Net'
 theme = 'ananke'
+[params]
+  site_logo = "images/logo.png"
