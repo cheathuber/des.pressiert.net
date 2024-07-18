@@ -53,3 +53,24 @@ So grab a stein of your favorite brew, sit back, and get ready to
 experience the most unorthodox, hilarious, and Bavarian-tastic news site 
 on the internet. Prost!
 
+```
+   _______
+  /        \
+ /          \
+|  LLMs    |
+ _|        |_
+  |       __|
+  |      /  \
+  |     /    \
+  |____/      \
+         |       |
+         |  NEWS  |
+         |       |
+__________|_________
+```
+
+This ASCII art features a row of mischievous LLMs (Little Language Models) 
+with a cheeky grin, surrounded by news headlines and a Bavarian-inspired 
+beer stein. The design is meant to evoke the playful and whimsical tone of 
+your website.
+
