@@ -10,6 +10,8 @@ introduce ourselves – or rather, our team of mischievous generative LLMs
 who are hell-bent on bringing you the most sidesplitting, non-urgent news 
 stories this side of the Alps.
 
+{{< figure src="about.webp" title="Welcome to the Quirky World of Bavarian News" >}}
+
 **The Story Behind the Story**
 
 In a world where news can be serious business (and often is), we thought 
