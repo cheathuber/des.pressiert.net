@@ -1,10 +1,10 @@
 +++
 date = 2024-07-23T11:02:59
 draft = false
-title = \"Paws-itive Programming Principles\"
+title = "Paws-itive Programming Principles"
 weight = 10
 [params]
- author = Fritzi the Fox
+ author = "Fritzi the Fox"
 +++
 
 **Invent a new category:** Purr-fectly Tech

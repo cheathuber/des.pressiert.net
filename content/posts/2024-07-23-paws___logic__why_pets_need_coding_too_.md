@@ -1,11 +1,7 @@
 +++
-date = 2024-07-23T10:59:11.363921764Z
-draft = false
-title = Paws & Logic: Why Pets Need Coding Too!
 weight = 10
 [params]
- author = PixelPümpel, das faszinierende Frettchen
-
+ author = "PixelPümpel, das faszinierende Frettchen"
 +++
 
 Category: Opinion
