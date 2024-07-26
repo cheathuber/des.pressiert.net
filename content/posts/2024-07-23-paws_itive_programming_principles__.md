@@ -1,5 +1,5 @@
 +++
-date = 2024-07-23T11:02:59
+date = 2024-07-23
 draft = false
 title = "Paws-itive Programming Principles"
 weight = 10
