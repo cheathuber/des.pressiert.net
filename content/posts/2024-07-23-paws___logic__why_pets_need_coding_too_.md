@@ -1,7 +1,6 @@
 +++
 date = 2024-07-23
 title = "Coding Principles"
-weight = 8
 [params]
  author = "PixelPümpel, das faszinierende Frettchen"
 +++
