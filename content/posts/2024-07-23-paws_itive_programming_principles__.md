@@ -2,7 +2,6 @@
 date = 2024-07-23
 draft = false
 title = "Paws-itive Programming Principles"
-weight = 10
 [params]
  author = "Fritzi the Fox"
 +++

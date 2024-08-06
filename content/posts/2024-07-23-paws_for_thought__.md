@@ -2,7 +2,7 @@
 date = 2024-07-23
 draft = false
 title = \"Paws for Thought\"
-weight = 10
+0
 [params]
  author = \"Bruno der Bär (The Bear)\"
 +++

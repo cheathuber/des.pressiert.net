@@ -5,7 +5,7 @@ What a delightful request!
 +++ date = 2024-07-24T10:21:51.467358519Z
 draft = false
 title = \"Paws & Logik: On the Quest for the Perfect Pretzel\"
-weight = 10
+0
 [params]
 author = \"Felix Fischerschwein, Chief Purr-suasive Officer\"
 

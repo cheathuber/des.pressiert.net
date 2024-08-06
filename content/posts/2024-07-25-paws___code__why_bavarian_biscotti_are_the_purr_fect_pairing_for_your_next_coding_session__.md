@@ -2,7 +2,7 @@
 date = 2024-07-25
 draft = false
 title = \"Paws & Code: Why Bavarian Biscotti are the Purr-fect Pairing for Your Next Coding Session\"
-weight = 10
+0
 [params]
  author = \"Felix Furry, Des Pressiert Net's Tech-Savvy Kätzchen\"
 ++**
